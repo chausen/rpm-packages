@@ -1,0 +1,28 @@
+2025-10-17 16:38:27,324 - Mock Version: 6.3
+2025-10-17 16:38:27,328 - Start(bootstrap): chroot init
+2025-10-17 16:38:27,336 - Start(bootstrap): cleaning package manager metadata
+2025-10-17 16:38:27,336 - Finish(bootstrap): cleaning package manager metadata
+2025-10-17 16:38:40,552 - Start(bootstrap): installing dnf tooling
+2025-10-17 16:38:50,579 - Finish(bootstrap): installing dnf tooling
+2025-10-17 16:38:50,747 - Start(bootstrap): creating root cache
+2025-10-17 16:38:51,348 - Finish(bootstrap): creating root cache
+2025-10-17 16:38:51,348 - Finish(bootstrap): chroot init
+2025-10-17 16:38:51,350 - Start: chroot init
+2025-10-17 16:38:51,358 - Start: cleaning package manager metadata
+2025-10-17 16:38:51,358 - Finish: cleaning package manager metadata
+2025-10-17 16:38:51,683 - Start: installing minimal buildroot with dnf
+2025-10-17 16:39:16,554 - Finish: installing minimal buildroot with dnf
+2025-10-17 16:39:16,686 - Start: creating root cache
+2025-10-17 16:39:17,297 - Finish: creating root cache
+2025-10-17 16:39:17,298 - Finish: chroot init
+2025-10-17 16:39:17,360 - Start: build phase for e2fsprogs-1.47.3-2.fc43.src.rpm
+2025-10-17 16:39:17,361 - Start: build setup for e2fsprogs-1.47.3-2.fc43.src.rpm
+2025-10-17 16:39:34,129 - Finish: build setup for e2fsprogs-1.47.3-2.fc43.src.rpm
+2025-10-17 16:39:34,130 - Start: rpmbuild e2fsprogs-1.47.3-2.fc43.src.rpm
+2025-10-17 16:39:34,131 - Start: Outputting list of installed packages
+2025-10-17 16:39:34,202 - Finish: Outputting list of installed packages
+2025-10-17 17:05:37,341 - Finish: rpmbuild e2fsprogs-1.47.3-2.fc43.src.rpm
+2025-10-17 17:05:37,346 - Finish: build phase for e2fsprogs-1.47.3-2.fc43.src.rpm
+2025-10-17 17:05:37,348 - Start: clean chroot
+2025-10-17 17:05:38,937 - Finish: clean chroot
+2025-10-17 17:05:38,938 - Finish: run
